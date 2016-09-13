@@ -1,0 +1,10 @@
+c:\Users\cummineg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\net45project\bin\Debug\net45project.exe.config
+c:\Users\cummineg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\net45project\bin\Debug\net45project.exe
+c:\Users\cummineg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\net45project\bin\Debug\net45project.pdb
+c:\Users\cummineg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\net45project\bin\Debug\ClassLibrary1.dll
+c:\Users\cummineg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\net45project\bin\Debug\Microsoft.Threading.Tasks.dll
+c:\Users\cummineg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\net45project\bin\Debug\ClassLibrary1.pdb
+c:\Users\cummineg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\net45project\bin\Debug\Microsoft.Threading.Tasks.xml
+c:\Users\cummineg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\net45project\obj\Debug\net45project.csprojResolveAssemblyReference.cache
+c:\Users\cummineg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\net45project\obj\Debug\net45project.exe
+c:\Users\cummineg\Documents\Visual Studio 2015\Projects\ConsoleApplication1\net45project\obj\Debug\net45project.pdb
